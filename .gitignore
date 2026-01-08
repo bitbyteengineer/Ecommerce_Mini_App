@@ -1,0 +1,17 @@
+
+.metadata
+
+.settings/
+
+bin/
+
+tmp/
+
+*.tmp
+
+*.bak
+
+*.swp
+
+*~.nib
+
